@@ -45,7 +45,7 @@ const RESOURCES = {
 "assets/assets/images/header.jpg": "83299973e8e7c870e04db9a682e8616e",
 "assets/assets/images/Logo-512.jpeg": "2ce86e240619a0e1738a1b3fb7bbf92b",
 "assets/assets/images/logo-512.jpg": "f60e914f906d64c4882b4bfd3ae4ffa3",
-"assets/assets/images/Medicool_bg.jpg": "486bc02302dc0fffccc10321f16267a3",
+"assets/assets/images/Medicool_bg.jpg": "b8ff828b9744fa1c4e49d1294b16b4a9",
 "assets/assets/images/Medicool_bg1.JPG": "4902649a531d12747a43306d634ec3cf",
 "assets/assets/images/Medicool_bg_live.JPG": "2b68ee85835d2bc84c4ae48d3805fbce",
 "assets/assets/images/Medicool_bg_x.jpg": "3a6f25dd91899f691ba584b3b21c1a05",
@@ -81,9 +81,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e24f3344317dec6de67a65f827f5f87f",
-"/": "e24f3344317dec6de67a65f827f5f87f",
-"main.dart.js": "9e7eaca28bc9d967ede5e1b971846a34",
+"index.html": "2199ab838f5e6af5094ac8acff8ea3ed",
+"/": "2199ab838f5e6af5094ac8acff8ea3ed",
+"main.dart.js": "84d3a40ca5968cca5483d65f6c969279",
 "manifest.json": "8680e9d796f99fb61aa2331585f0ca40",
 "version.json": "afb67f8eefbf1ce4b54d82b8ed3aea93"
 };
