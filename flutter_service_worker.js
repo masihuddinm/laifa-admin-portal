@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7fb8713073c80e73383899e6901bf7c0",
+  "assets/AssetManifest.json": "d80f1c7bd2501ad9bfde7438608ca83c",
 "assets/assets/fonts/muli/Muli-Bold.ttf": "1e36ee6d50c037b1bb4bdd3effa7a28e",
 "assets/assets/fonts/muli/Muli-Light.ttf": "6b667c3dbc3d4df6dd096ad18296704d",
 "assets/assets/fonts/muli/Muli.ttf": "df7330254513d2fa2f4c1e9ee98cc6c6",
@@ -41,16 +41,10 @@ const RESOURCES = {
 "assets/assets/icons/Trash.svg": "fe2725bc4781bace6708d522889456e7",
 "assets/assets/icons/User%2520Icon.svg": "3944ad12a2e9014c192fc5795e69a589",
 "assets/assets/icons/User.svg": "da6c4fccfbbf6a07d6478cb5ac7e9f9f",
-"assets/assets/images/2medicoll_bg_final.jpg": "3436a4c79d3a114d3832ab615c1441d5",
 "assets/assets/images/header.jpg": "83299973e8e7c870e04db9a682e8616e",
 "assets/assets/images/Logo-512.jpeg": "2ce86e240619a0e1738a1b3fb7bbf92b",
-"assets/assets/images/logo-512.jpg": "f60e914f906d64c4882b4bfd3ae4ffa3",
 "assets/assets/images/Medicool_bg.jpg": "b8ff828b9744fa1c4e49d1294b16b4a9",
-"assets/assets/images/Medicool_bg1.JPG": "4902649a531d12747a43306d634ec3cf",
-"assets/assets/images/Medicool_bg_live.JPG": "2b68ee85835d2bc84c4ae48d3805fbce",
-"assets/assets/images/Medicool_bg_x.jpg": "3a6f25dd91899f691ba584b3b21c1a05",
 "assets/assets/images/Midicool-logo.jpeg": "56ccfa539b601dfb18709695c6ee2752",
-"assets/assets/images/Midicool-logo1.jpg": "2b68ee85835d2bc84c4ae48d3805fbce",
 "assets/assets/images/Midicool-logo3.jpg": "73b11b20280f0aa7fd0dd458fbce7b04",
 "assets/assets/images/Pattern%2520Success.png": "c46441a1f4f1d8913d779178aebc9bfd",
 "assets/assets/images/profile_image.png": "6f6bbb16aec97391aefe120ec5a4e6a2",
@@ -81,9 +75,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2199ab838f5e6af5094ac8acff8ea3ed",
-"/": "2199ab838f5e6af5094ac8acff8ea3ed",
-"main.dart.js": "84d3a40ca5968cca5483d65f6c969279",
+"index.html": "68ac01efe740fcf7744a87bbbae43e36",
+"/": "68ac01efe740fcf7744a87bbbae43e36",
+"main.dart.js": "83fee25ebfcf2ffd5aa9b6b737b4380c",
 "manifest.json": "8680e9d796f99fb61aa2331585f0ca40",
 "version.json": "afb67f8eefbf1ce4b54d82b8ed3aea93"
 };
