@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d80f1c7bd2501ad9bfde7438608ca83c",
+  "assets/AssetManifest.json": "41af3f75e05f4ddd1b34e6374c456482",
 "assets/assets/fonts/muli/Muli-Bold.ttf": "1e36ee6d50c037b1bb4bdd3effa7a28e",
 "assets/assets/fonts/muli/Muli-Light.ttf": "6b667c3dbc3d4df6dd096ad18296704d",
 "assets/assets/fonts/muli/Muli.ttf": "df7330254513d2fa2f4c1e9ee98cc6c6",
@@ -42,8 +42,8 @@ const RESOURCES = {
 "assets/assets/icons/User%2520Icon.svg": "3944ad12a2e9014c192fc5795e69a589",
 "assets/assets/icons/User.svg": "da6c4fccfbbf6a07d6478cb5ac7e9f9f",
 "assets/assets/images/header.jpg": "83299973e8e7c870e04db9a682e8616e",
+"assets/assets/images/Laifa_bg.jpg": "b8ff828b9744fa1c4e49d1294b16b4a9",
 "assets/assets/images/Logo-512.jpeg": "2ce86e240619a0e1738a1b3fb7bbf92b",
-"assets/assets/images/Medicool_bg.jpg": "b8ff828b9744fa1c4e49d1294b16b4a9",
 "assets/assets/images/Midicool-logo.jpeg": "56ccfa539b601dfb18709695c6ee2752",
 "assets/assets/images/Midicool-logo3.jpg": "73b11b20280f0aa7fd0dd458fbce7b04",
 "assets/assets/images/Pattern%2520Success.png": "c46441a1f4f1d8913d779178aebc9bfd",
@@ -75,9 +75,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "472f8e6ef5195c9c29aafa663d7024b1",
-"/": "472f8e6ef5195c9c29aafa663d7024b1",
-"main.dart.js": "0615a1430b9fea4873fea87cffd0a497",
+"index.html": "0bf639436f718c9fa5a4d26dd6a5e699",
+"/": "0bf639436f718c9fa5a4d26dd6a5e699",
+"main.dart.js": "035cfbfad3ec339f3b15362b2362dc34",
 "manifest.json": "8680e9d796f99fb61aa2331585f0ca40",
 "version.json": "afb67f8eefbf1ce4b54d82b8ed3aea93"
 };
